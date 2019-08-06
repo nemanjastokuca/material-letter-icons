@@ -1,4 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="532" height="532" viewBox="0 0 512 512">
-    <circle cx="255" cy="255" r="230" fill="#aa00ff" />
-    <text x="255" y="246" alignment-baseline="central" text-anchor="middle" fill="#fff" font-size="275" font-weight="100" font-family="Roboto">X</text>
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="514" width="514" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <circle stroke="null" id="svg_1" fill="#3e2723" r="255.000013" cy="256.000028" cx="255.999999"/>
+  <text id="svg_2" font-family="Roboto" font-weight="300" font-size="275" fill="#fff" text-anchor="middle" y="349" x="256">X</text>
+ </g>
 </svg>
